@@ -8,7 +8,6 @@ import com.spring.entity.Authority;
 import com.spring.entity.ToDo;
 import com.spring.entity.User;
 import com.spring.entity.UserDetails;
-import com.sun.xml.internal.bind.v2.TODO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
